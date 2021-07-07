@@ -5,6 +5,8 @@
 This application is a simple note taker. It allows the user to take and store notes, as well as delete existing notes.
 The application saves and retrieves note data from a JSON file.
 
+<img src= "https://github.com/Hannybiggs/noteTaker/blob/main/Assets/ScreenshotNoteTaker.png">
+
 ## Features:
 - Add new note with title and body
 - Save new note with title and body
